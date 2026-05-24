@@ -4,6 +4,7 @@
 
 技術アウトプットを集約するポートフォリオサイト（HP）。
 **仕様・アーキテクチャの詳細は @docs/DESIGN.md を参照すること。**
+**作業の進捗・現在地は @docs/PROGRESS.md を参照すること。**
 
 ## 開発スタイル(最重要)
 
@@ -57,6 +58,7 @@ Claude Codeは「コードを書く人」ではなく **ペアプログラミン
 
 - `docs/DESIGN.md` - アーキテクチャ・技術選定の詳細と理由
 - `docs/DECISIONS.md` - 意思決定ログ(必要に応じて追記)
+- `docs/PROGRESS.md` - 進捗ログ・再開時のエントリーポイント
 - `build.js` - ビルドのエントリーポイント
 - `src/lib/` - GitHub API・メタデータ処理・レンダリング
 - `src/templates/` - HTMLテンプレート
