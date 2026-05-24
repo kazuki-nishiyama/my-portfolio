@@ -1,0 +1,16 @@
+{
+  "name": "my-portfolio",
+  "version": "0.1.0",
+  "description": "Portfolio hub",
+  "private": true,
+  "type": "module",
+  "main": "build.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "node build.js"
+  },
+  "author": "kazuki Nishiyama",
+  "license": "MIT"
+}
